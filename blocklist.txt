@@ -1,2 +1,14 @@
-ad.doubleclick.net
-adservice.google.com
+!
+! Title: Techyplanet Ads Blocklist
+! Description: Blocklist for blocking Google advertising domains such as DoubleClick and Google Ads.
+! Version: 1.0.0
+! Homepage: https://yourhomepage.com
+! Last modified: 2024-12-30T13:10:02.961Z
+!
+! Compiled by @nitin
+!
+||ad.doubleclick.net^
+||adservice.google.com^
+||googleads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||tpc.googlesyndication.com^
