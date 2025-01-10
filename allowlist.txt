@@ -1,1 +1,2 @@
-
+@@||scoreboard-bridge.deno.dev^$important
+@@||netflix.com^$important
