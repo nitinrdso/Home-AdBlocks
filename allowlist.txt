@@ -1,2 +1,3 @@
-@@||scoreboard-bridge.deno.dev^$important
-@@||netflix.com^$important
+# DNS Allowlist for critical services
+scoreboard-bridge.deno.dev
+netflix.com
