@@ -1,3 +1,4 @@
 # DNS Allowlist for critical services
 scoreboard-bridge.deno.dev
 netflix.com
+hackintosh.expert
