@@ -3,3 +3,4 @@ scoreboard-bridge.deno.dev
 netflix.com
 hackintosh.expert
 saa.paramountplus.com
+bam.nr-data.net
