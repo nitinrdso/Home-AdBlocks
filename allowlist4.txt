@@ -7,3 +7,4 @@ bam.nr-data.net
 conduit.redfast.com
 production-cmp.isgprivacy.cbsi.com
 jumper.exchange
+*.jumper.exchange
