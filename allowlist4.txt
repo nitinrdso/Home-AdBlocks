@@ -8,3 +8,5 @@ conduit.redfast.com
 production-cmp.isgprivacy.cbsi.com
 jumper.exchange
 *.jumper.exchange
+aerodrome.finance
+*.aerodrome.finance
