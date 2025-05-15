@@ -10,3 +10,4 @@ production-cmp.isgprivacy.cbsi.com
 *.jumper.exchange
 *.finance
 *.money
+*.cash
