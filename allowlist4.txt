@@ -11,3 +11,4 @@ production-cmp.isgprivacy.cbsi.com
 *.finance
 *.money
 *.cash
+*.quest
