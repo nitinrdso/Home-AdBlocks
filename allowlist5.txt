@@ -16,3 +16,4 @@ production-cmp.isgprivacy.cbsi.com
 # Pocket Guard CDN
 cdn.mxpnl.com
 browser.sentry-cdn.com
+*.cookiebot.com
