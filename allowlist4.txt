@@ -15,3 +15,4 @@ production-cmp.isgprivacy.cbsi.com
 *.trade
 # Pocket Guard CDN
 cdn.mxpnl.com
+browser.sentry-cdn.com
