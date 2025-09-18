@@ -17,3 +17,5 @@ production-cmp.isgprivacy.cbsi.com
 cdn.mxpnl.com
 browser.sentry-cdn.com
 *.cookiebot.com
+*.stripe.com
+*.stripe.network
