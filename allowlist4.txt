@@ -13,3 +13,5 @@ production-cmp.isgprivacy.cbsi.com
 *.cash
 *.quest
 *.trade
+# Pocket Guard CDN
+cdn.mxpnl.com
