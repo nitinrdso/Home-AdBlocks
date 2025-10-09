@@ -21,3 +21,4 @@ browser.sentry-cdn.com
 *.stripe.network
 *.googletagmanager.com
 *.data.microsoft.com
+*.k3s.io
