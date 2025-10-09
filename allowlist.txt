@@ -6,6 +6,7 @@ saa.paramountplus.com
 bam.nr-data.net
 conduit.redfast.com
 production-cmp.isgprivacy.cbsi.com
+pocketguard.com
 *.exchange
 *.jumper.exchange
 *.finance
