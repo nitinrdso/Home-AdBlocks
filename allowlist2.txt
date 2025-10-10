@@ -24,3 +24,7 @@ browser.sentry-cdn.com
 *.googletagmanager.com
 *.data.microsoft.com
 *.k3s.io
+koofr.net
+*.koofr.net
+dealer-fx.com
+*.dealer-fx.com
