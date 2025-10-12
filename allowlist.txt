@@ -40,3 +40,5 @@ amazon.in
 *.amazon.in
 amazon.ca
 *.amazon.ca
+olg.ca
+*.olg.ca
