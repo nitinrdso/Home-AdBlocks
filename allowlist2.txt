@@ -29,3 +29,14 @@ koofr.net
 dealer-fx.com
 *.dealer-fx.com
 jb.gg
+*.equitablebank.ca
+equitablebank.ca
+eqbank.ca
+*.eqbank.ca
+cutt.ly
+amazon.com
+*.amazon.com
+amazon.in
+*.amazon.in
+amazon.ca
+*.amazon.ca
