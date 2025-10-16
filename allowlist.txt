@@ -44,3 +44,5 @@ olg.ca
 *.olg.ca
 apple.com
 *.apple.com
+intercom.io
+*.intercom.io
