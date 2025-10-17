@@ -46,3 +46,5 @@ apple.com
 *.apple.com
 intercom.io
 *.intercom.io
+rargb.to
+*.rargb.to
