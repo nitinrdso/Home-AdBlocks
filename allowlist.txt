@@ -48,3 +48,7 @@ intercom.io
 *.intercom.io
 rargb.to
 *.rargb.to
+hotjar.io
+*.hotjar.io
+hotjar.com
+*.hotjar.com
