@@ -52,3 +52,5 @@ hotjar.io
 *.hotjar.io
 hotjar.com
 *.hotjar.com
+a2z.com
+*.a2z.com
