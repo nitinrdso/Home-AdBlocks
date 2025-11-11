@@ -1,4 +1,6 @@
 # DNS Allowlist for critical services
+bell.ca
+*.bell.ca
 scoreboard-bridge.deno.dev
 netflix.com
 hackintosh.expert
