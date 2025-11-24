@@ -55,3 +55,4 @@ a2z.com
 *.a2z.com
 ubuntu.com
 *.ubuntu.com
+*.cloudsmith.io
