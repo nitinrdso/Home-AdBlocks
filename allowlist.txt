@@ -56,3 +56,5 @@ a2z.com
 ubuntu.com
 *.ubuntu.com
 *.cloudsmith.io
+maccosmetics.ca
+*.maccosmetics.ca
