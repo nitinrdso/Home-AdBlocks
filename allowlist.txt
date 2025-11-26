@@ -58,3 +58,5 @@ ubuntu.com
 *.cloudsmith.io
 maccosmetics.ca
 *.maccosmetics.ca
+aifiesta.ai
+*.aifiesta.ai
