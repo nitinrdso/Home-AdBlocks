@@ -60,3 +60,5 @@ maccosmetics.ca
 *.maccosmetics.ca
 aifiesta.ai
 *.aifiesta.ai
+ddsb.ca
+*.ddsb.ca
