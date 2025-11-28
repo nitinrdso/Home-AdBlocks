@@ -62,3 +62,5 @@ aifiesta.ai
 *.aifiesta.ai
 ddsb.ca
 *.ddsb.ca
+canadiantire.ca
+*.canadiantire.ca
