@@ -1,4 +1,8 @@
 # DNS Allowlist for critical services
+techyplanet.com
+*.techyplanet.com
+batchplanner.com
+*.batchplanner.com
 bell.ca
 *.bell.ca
 *.app.link
