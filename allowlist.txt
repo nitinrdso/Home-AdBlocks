@@ -64,3 +64,5 @@ ddsb.ca
 *.ddsb.ca
 canadiantire.ca
 *.canadiantire.ca
+facebook.com
+*.facebook.com
