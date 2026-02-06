@@ -70,3 +70,6 @@ canadiantire.ca
 *.canadiantire.ca
 facebook.com
 *.facebook.com
+
+#AWS
+*.console.api.aws
