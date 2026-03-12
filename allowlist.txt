@@ -71,6 +71,7 @@ canadiantire.ca
 facebook.com
 *.facebook.com
 *.brevo.com
+*.bmo.com
 
 #AWS
 *.console.api.aws
