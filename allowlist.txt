@@ -71,6 +71,8 @@ canadiantire.ca
 facebook.com
 *.facebook.com
 *.brevo.com
+workers.new
+*.workers.new
 
 # Banks
 *.bmo.com
@@ -78,3 +80,4 @@ facebook.com
 
 #AWS
 *.console.api.aws
+
