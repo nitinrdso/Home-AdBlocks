@@ -81,3 +81,6 @@ workers.new
 #AWS
 *.console.api.aws
 
+#Tools / Tech
+*.jetbrains.com
+jetbrains.com
