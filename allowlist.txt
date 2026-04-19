@@ -77,6 +77,8 @@ workers.new
 # Banks
 *.bmo.com
 *.ownwell.ca
+hyundaifinance.ca
+*.hyundaifinance.ca
 
 #AWS
 *.console.api.aws
