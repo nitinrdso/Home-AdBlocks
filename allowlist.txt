@@ -86,3 +86,14 @@ hyundaifinance.ca
 #Tools / Tech
 *.jetbrains.com
 jetbrains.com
+
+# DDSB
+schoolmessenger.com
+*.schoolmessenger.com
+
+#Cloudflare
+cfl.re
+
+# EFGroup
+pstmrk.it
+*.pstmrk.it
