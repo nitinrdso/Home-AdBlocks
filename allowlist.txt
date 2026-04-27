@@ -86,6 +86,7 @@ hyundaifinance.ca
 #Tools / Tech
 *.jetbrains.com
 jetbrains.com
+*.app
 
 # DDSB
 schoolmessenger.com
