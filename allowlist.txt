@@ -79,6 +79,7 @@ workers.new
 *.ownwell.ca
 hyundaifinance.ca
 *.hyundaifinance.ca
+*.eqbank.ca
 
 #AWS
 *.console.api.aws
