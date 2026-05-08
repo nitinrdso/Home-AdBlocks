@@ -79,7 +79,8 @@ workers.new
 *.ownwell.ca
 hyundaifinance.ca
 *.hyundaifinance.ca
-*.eqbank.ca
+pendo.io
+*.pendo.io
 
 #AWS
 *.console.api.aws
