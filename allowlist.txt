@@ -81,6 +81,8 @@ hyundaifinance.ca
 *.hyundaifinance.ca
 pendo.io
 *.pendo.io
+split.io
+*.split.io
 
 #AWS
 *.console.api.aws
