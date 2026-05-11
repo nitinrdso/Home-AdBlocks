@@ -102,3 +102,7 @@ cfl.re
 # EFGroup
 pstmrk.it
 *.pstmrk.it
+
+# Email Links
+sendgrid.net
+*.sendgrid.net
