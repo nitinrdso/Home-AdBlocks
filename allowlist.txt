@@ -40,6 +40,8 @@ jb.gg
 equitablebank.ca
 eqbank.ca
 *.eqbank.ca
+paypal.com
+*.paypal.com
 cutt.ly
 amazon.com
 *.amazon.com
