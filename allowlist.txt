@@ -108,3 +108,5 @@ pstmrk.it
 # Email Links
 sendgrid.net
 *.sendgrid.net
+
+*.weebly.com
