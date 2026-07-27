@@ -110,4 +110,4 @@ sendgrid.net
 *.sendgrid.net
 
 *.weebly.com
-sdk-web.y.uno
+*.y.uno
